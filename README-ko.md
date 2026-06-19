@@ -1,4 +1,4 @@
-# Firefox Base64 Decode Selection
+# Base64 Decode Selection for Firefox
 
 [English](README.md) | **한국어**
 
@@ -19,7 +19,7 @@
 
 두 가지 방법으로 설치할 수 있습니다:
 
-**1. Firefox 공식 Add-ons 스토어 (권장)**
+**1. Firefox Add-ons 스토어 (권장)**
 
 *   [https://addons.mozilla.org/ko/firefox/addon/base64-decoder-on-selection/](https://addons.mozilla.org/ko/firefox/addon/base64-decoder-on-selection/)
 
