@@ -1,4 +1,4 @@
-# Firefox Base64 Decode Selection
+# Base64 Decode Selection for Firefox
 
 **English** | [한국어](README-ko.md)
 
