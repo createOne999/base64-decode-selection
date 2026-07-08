@@ -4,16 +4,13 @@
 
 A Firefox browser extension that allows you to easily decode selected Base64 encoded text using the context menu (right-click).
 
-## Key Features
+## How to Use
 
-*   **Context Menu Integration**: Right-click on selected Base64 text to decode instantly.
-*   **Smart Positioning**: The decoded text overlay appears above or below your selection, automatically adjusted to stay within the viewport.
-*   **UTF-8 Support**: Properly decodes international characters including Korean, Japanese, Chinese, and emojis.
-*   **One-Click Copy**: Built-in copy button to copy decoded text directly to your clipboard.
-*   **Visual Feedback**: Toast notification appears when text is copied successfully.
-*   **Auto Dark Mode**: Automatically detects and matches your browser's dark/light theme.
-*   **Keyboard Support**: Press `Escape` key to close the overlay instantly.
-*   **Click Outside to Close**: Click anywhere outside the overlay to dismiss it.
+1.  Select the Base64 encoded text on any web page by dragging your mouse over it.
+2.  Right-click on the selected text to open the context menu.
+3.  Click on "Base64 Decode" in the menu.
+4.  A small overlay window containing the decoded text will appear near your selection.
+5.  Click anywhere else on the page to close the overlay window.
 
 ## Installation
 
@@ -40,11 +37,3 @@ This method is useful during development or for testing before the extension is 
 7.  The extension will be loaded and appear in the list.
 
 *   **Note:** Temporary add-ons are removed when you close Firefox. You will need to repeat this process each time you restart the browser if you want to continue using it this way.
-
-## How to Use
-
-1.  Select the Base64 encoded text on any web page by dragging your mouse over it.
-2.  Right-click on the selected text to open the context menu.
-3.  Click on "Base64 Decode" in the menu.
-4.  A small overlay window containing the decoded text will appear near your selection.
-5.  Click anywhere else on the page to close the overlay window.
